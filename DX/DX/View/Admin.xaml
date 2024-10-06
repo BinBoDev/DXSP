@@ -3,10 +3,31 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:local="clr-namespace:DX.View"
         mc:Ignorable="d"
-        Title="Admin" Height="450" Width="800">
+        Title="Admin" Height="450" Width="800"
+        Icon="/DX;component/View/Image/Uni.ico"
+        >
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <materialDesign:Card Margin="5" BorderThickness="0">
+            <StackPanel Orientation="Horizontal">
+                <Menu HorizontalAlignment="Center" >
+                    <MenuItem Header="File" Height="20" Margin="2"  >
+                        
+                    </MenuItem>
+                    <MenuItem Header="Edit" Height="20" Margin="2" >
+                        
+                    </MenuItem>
+                </Menu>
+            </StackPanel>
+        </materialDesign:Card>
+        <materialDesign:Card Grid.Row="1" Margin="5">
+
+        </materialDesign:Card>
     </Grid>
 </Window>

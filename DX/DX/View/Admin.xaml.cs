@@ -23,5 +23,7 @@ namespace DX.View
         {
             InitializeComponent();
         }
+
+        
     }
 }

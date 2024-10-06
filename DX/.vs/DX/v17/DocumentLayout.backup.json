@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Wpf_Basic\\WpfDX\\DX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\view\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\view\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\view\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\wpf_basic\\wpfdx\\dx\\dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Admin.xaml.cs",
-              "DocumentMoniker": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\View\\Admin.xaml.cs",
-              "RelativeDocumentMoniker": "DX\\View\\Admin.xaml.cs",
-              "ToolTip": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\View\\Admin.xaml.cs",
-              "RelativeToolTip": "DX\\View\\Admin.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DX\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DX\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T11:19:00.243Z",
+              "WhenOpened": "2024-10-03T14:20:03.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Admin.xaml",
               "DocumentMoniker": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\View\\Admin.xaml",
               "RelativeDocumentMoniker": "DX\\View\\Admin.xaml",
@@ -59,19 +59,6 @@
               "RelativeToolTip": "DX\\View\\Admin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-06T11:18:56.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "DX\\Models\\Account.cs",
-              "ToolTip": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\Models\\Account.cs",
-              "RelativeToolTip": "DX\\Models\\Account.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:45:35.886Z",
               "EditorCaption": ""
             },
             {
@@ -88,16 +75,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DX\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\MainWindow.xaml.cs",
-              "RelativeToolTip": "DX\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\View\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "DX\\View\\Admin.xaml.cs",
+              "ToolTip": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\View\\Admin.xaml.cs",
+              "RelativeToolTip": "DX\\View\\Admin.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T14:20:03.365Z",
+              "WhenOpened": "2024-10-06T11:19:00.243Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "DX\\Models\\Account.cs",
+              "ToolTip": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\Models\\Account.cs",
+              "RelativeToolTip": "DX\\Models\\Account.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:45:35.886Z"
             },
             {
               "$type": "Document",

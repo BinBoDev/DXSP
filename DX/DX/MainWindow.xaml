@@ -17,6 +17,7 @@
     <Grid>
         <materialDesign:Card
             BorderThickness="1"
+            Margin="4"
            
             >
             <Grid>
@@ -97,7 +98,7 @@
                             <ColumnDefinition Width="*"/>
                         </Grid.ColumnDefinitions>
                         <Button 
-                            Name="btnlogin"
+                            Name="btnlogin" Click="btnlogin_Click"
                             HorizontalContentAlignment="Right" Background="Green">
                             <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right">
                                 <materialDesign:PackIcon Kind="Login" Margin="0,5,5,5" />
@@ -107,7 +108,7 @@
 
 
                         <Button
-                            Name="btnexit"
+                            Name="btnexit" Click="btnexit_Click"
                             HorizontalContentAlignment="Right" Background="Red" Grid.Column="1" Margin="10" Width="90">
                             <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right">
                                 <materialDesign:PackIcon Kind="ExitToApp" VerticalAlignment="Center" Margin="5" />
