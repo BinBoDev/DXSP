@@ -18,11 +18,20 @@ namespace DX.Models
     public class DXSP : DbContext
     {
         //Khai báo chuỗi kết nối đến SQL Serve
+
+        //**************connectionString for Home******************
+        //private const string connectionString = @"
+        //                                        Server=DESKTOP-7E0C4GH\SQLEXPRESS;
+        //                                        Initial Catalog=DXSP;
+        //                                        User ID=sa;
+        //                                        Password=binbong1215;
+        //                                        TrustServerCertificate=True;";
+        //**************connectionString for Uni******************
         private const string connectionString = @"
-                                                Server=DESKTOP-7E0C4GH\SQLEXPRESS;
+                                                Server=SERVER3\SQLEXPRESS;
                                                 Initial Catalog=DXSP;
                                                 User ID=sa;
-                                                Password=binbong1215;
+                                                Password=2911;
                                                 TrustServerCertificate=True;";
         //Khai báo một Table Account trong CSDL DXSP
         public DbSet<Account> accounts { get; set; }

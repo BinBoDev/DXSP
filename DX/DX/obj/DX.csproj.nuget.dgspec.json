@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\DX.csproj": {}
+    "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\DX.csproj": {}
   },
   "projects": {
-    "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\DX.csproj": {
+    "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\DX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\DX.csproj",
+        "projectUniqueName": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\DX.csproj",
         "projectName": "DX",
-        "projectPath": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\DX.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Wpf_Basic\\WpfDX\\DX\\DX\\obj\\",
+        "projectPath": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\DX.csproj",
+        "packagesPath": "C:\\Users\\p.tan\\.nuget\\packages\\",
+        "outputPath": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\p.tan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
