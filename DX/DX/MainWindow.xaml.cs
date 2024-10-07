@@ -64,7 +64,10 @@ namespace DX
         private void btnlogin_Click(object sender, RoutedEventArgs e)
         {
             Admin adminWindow = new Admin();
+            this.Hide();
             adminWindow.Show();
+            this.Show();
+            
         }
 
         private void btnexit_Click(object sender, RoutedEventArgs e)
