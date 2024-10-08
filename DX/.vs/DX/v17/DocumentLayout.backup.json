@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\phanmemqcc\\wpf\\dxsp\\dx\\dx\\viewmodel\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\viewmodel\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\phanmemqcc\\wpf\\dxsp\\dx\\dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\phanmemqcc\\wpf\\dxsp\\dx\\dx\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\phanmemqcc\\wpf\\dxsp\\dx\\dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountVM.cs",
-              "DocumentMoniker": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\ViewModel\\AccountVM.cs",
-              "RelativeDocumentMoniker": "DX\\ViewModel\\AccountVM.cs",
-              "ToolTip": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\ViewModel\\AccountVM.cs",
-              "RelativeToolTip": "DX\\ViewModel\\AccountVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DXSP.cs",
+              "DocumentMoniker": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\Models\\DXSP.cs",
+              "RelativeDocumentMoniker": "DX\\Models\\DXSP.cs",
+              "ToolTip": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\Models\\DXSP.cs",
+              "RelativeToolTip": "DX\\Models\\DXSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T03:24:48.009Z",
+              "WhenOpened": "2024-10-08T02:38:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "DX\\Models\\Account.cs",
+              "ToolTip": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\Models\\Account.cs",
+              "RelativeToolTip": "DX\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:35:09.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DX\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PhanmemQCC\\WPF\\DXSP\\DX\\DX\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DX\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:34:34.134Z",
               "EditorCaption": ""
             }
           ]

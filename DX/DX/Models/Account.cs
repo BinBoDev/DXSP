@@ -17,57 +17,22 @@ namespace DX.Models
     /// 
 
     [Table("Account")]
-    public class Account : INotifyPropertyChanged
-    {
-        private int id;
+    public class Account
+    { 
+        
         [Key] //Thuộc tính Key của trường Id
         public int Id { get; set; }
         [Required] // Khác NULL
         [StringLength(30)] // Trường Usernam có kiểu nVarchar(50)
-        private string username;
 
-        public string Username
-        {
-            get { return username; }
-            set 
-            { 
-                username = value; 
-                OnPropertyChanged(nameof(Username));
-            
-            }
-        }
+        public string Username { get; set; }
 
         [Required]
         [StringLength(20)]
-        private int password;
-
-        public int Password
-        {
-            get { return password; }
-            set 
-            { 
-                password = value;
-                OnPropertyChanged(nameof(Password));
-            }
-        }
+        public string Password { get; set; }
 
         [Required]
-        private int type;
+        public int Type { get; set; }
 
-        public int Type
-        {
-            get { return type; }
-            set 
-            {
-                type = value;
-                OnPropertyChanged(nameof(Type));
-            
-            }
-        }
-        public event PropertyChangedEventHandler? PropertyChanged;
-        protected void OnPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
-    }
+}
 }
